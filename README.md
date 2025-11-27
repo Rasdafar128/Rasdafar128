@@ -18,13 +18,15 @@ Experience with **fine-tuning, instruction training, prompting, RAG**, and **mul
 
 ### 🇷🇺 **National**
 - 🥇 **Winner — Regional Governor’s Cup in Computer Vision (2024 & 2025)**
-- 🥇 **Winner — NTO Neurotechnologies & Cognitive Sciences (solo & team)**
+- 🥇 **Winner — NTO Neurotechnologies & Cognitive Sciences (solo)**
 - 🥇 **Winner — NTO Infochemistry (solo & team)**
 - 🥈 **2nd place — National Championship “Professionals” (Big Data & ML)**
 - ⭐ **Top-13 — All-Russian Olympiad in AI**
 - 🥉 **Prize winner of regional stage of Russian Olympiad in Informatics (ВСОШ)**
 
 ### 🤝 **Team competitions**
+- 🥈 Silver medal — FAOI Kazakhstan (2025) — 3rd place team
+- 🥇 1st place — NTO “Neurotechnologies & Cognitive Sciences” (team)
 - 🥉 **3rd place team — International AI Challenge**
 
 ---
