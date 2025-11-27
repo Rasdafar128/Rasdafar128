@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/S1yQ2ZM.jpeg" alt="banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi! I'm <b>Mikhail Vershinin</b> 👋</h1>
 <h3 align="center">Machine Learning Engineer • AI Olympiad Medalist • CV & LLM Specialist</h3>
 ---
