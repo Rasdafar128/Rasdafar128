@@ -1,128 +1,83 @@
-✨ Hi! I'm Mikhail Vershinin
-🧠 ML Engineer • Data Scientist • Computer Vision & NLP Enthusiast
+<p align="center">
+  <img src="https://i.imgur.com/S1yQ2ZM.jpeg" alt="banner" width="100%"/>
+</p>
 
-18 y.o. (born 18.01.2008), Russia
+<h1 align="center">Hi! I'm <b>Mikhail Vershinin</b> 👋</h1>
+<h3 align="center">Machine Learning Engineer • AI Olympiad Medalist • CV & LLM Specialist</h3>
+---
 
-<a href="https://github.com/Rasdafar128"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://t.me/Radsdafar08"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+## 🧠 About Me
 
-👨‍💻 About Me
+I'm a 17 y.o. ML engineer focused on **computer vision, large language models (LLMs), deep learning, and multimodal AI systems**.  
+I build full-cycle ML pipelines — from raw data to production-ready solutions.  
+Experience with **fine-tuning, instruction training, prompting, RAG**, and **multimodal inference**.
 
-I’m a Machine Learning & AI engineer specializing in computer vision, deep learning, data analysis and applied AI systems.
-I actively participate in national and international olympiads, hackathons, and develop end-to-end ML pipelines — from data preprocessing to deployment.
+---
 
-🏆 Achievements
-⭐ 2025–2026 (current academic year)
+# 🏆 Major Achievements
 
-🥇 Winner — Regional Governor’s Cup in Computer Vision
+### 🌍 **International**
+- 🥇 **Gold medal — IOAI International Olympiad in AI** (4th place worldwide)
+- 🥈 **Silver medal — FAOI Kazakhstan (2025)** — 3rd place team
 
-🥈 Silver Medal — FAOI (Kazakhstan), 3rd place team
+### 🇷🇺 **National**
+- 🥇 **Winner — Regional Governor’s Cup in Computer Vision (2024 & 2025)**
+- 🥇 **Winner — NTO Neurotechnologies & Cognitive Sciences (solo & team)**
+- 🥇 **Winner — NTO Infochemistry (solo & team)**
+- 🥈 **2nd place — National Championship “Professionals” (Big Data & ML)**
+- ⭐ **Top-13 — All-Russian Olympiad in AI**
+- 🥉 **Prize winner of regional stage of Russian Olympiad in Informatics (ВСОШ)**
 
-🥉 Prize Winner — All-Russian AI Olympiad 2025 (9th place)
+### 🤝 **Team competitions**
+- 🥉 **3rd place team — International AI Challenge**
 
-⭐ 2024–2025 (last academic year)
+---
 
-🥇 Winner — Regional Governor’s Cup in Computer Vision
+# 🚀 Projects
 
-🥉 3rd place team — International AI Challenge
+### 🔹 AppAssistantBot  
+AI-powered Telegram assistant for automation and NLP tasks.  
+➡️ https://github.com/Rasdafar128/AppAssistantBot
 
-🥉 Bronze — Data Analysis Olympiad DANO
+### 🔹 ColdStartSolver  
+Solution for reducing cold-start in recommendation systems.  
+➡️ https://github.com/Rasdafar128/ColdStartSolver
 
-⭐ 13th place at the All-Russian Olympiad in AI
+### 🔹 Automatic Processing of Work Records  
+CV pipeline for OCR & structured data extraction.  
+➡️ https://github.com/Rasdafar128/Automatic-processing-of-work-records
 
-🥉 Prize winner — Regional stage of Russian Olympiad (informatics)
+### 🔹 Normalize Car Numbers  
+License plate detection & normalization system.  
+➡️ https://github.com/Rasdafar128/Normalize-cars-numbers
 
-🥇 Winner (solo) — NTO “Neurotechnologies & Cognitive Sciences”
+---
 
-🥇 Winner (team) — NTO “Neurotechnologies & Cognitive Sciences”
+# 🛠 Tech Stack
 
-🥉 Prize winner — NTO “Big Data & Machine Learning”
+**ML/DL:** PyTorch, scikit-learn, YOLO, SAM, Transformers  
+**LLM:** Llama, Qwen, Mistral, LLaVA, fine-tuning (LoRA), RAG, prompt engineering  
+**Languages:** Python, C++  
+**Tools:** Pandas, NumPy, OpenCV  
+**Fields:** CV, LLMs, multimodal AI, NLP, data analysis, optimization
 
-🥈 2nd place — National Championship “Professionals” (Big Data & ML)
+---
 
-🥇 Gold medal — International IOAI Olympiad (4th place worldwide!)
+# 📊 GitHub Stats
 
-⭐ 2023–2024 (previous academic year)
+<div align="center">
 
-🥉 Prize Winner — Innopolis Open AI Olympiad
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rasdafar128&theme=tokyonight&hide_border=true" width="49%"/>
 
-🥇 Winner (solo) — NTO Infochemistry
+<img src="https://github-readme-stats.vercel.app/api?username=Rasdafar128&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 
-🥇 Winner (team) — NTO Infochemistry
+</div>
 
-🥈 2nd place — “Professionals” ML Championship
+---
 
-🛠 Technical Skills
-Hard Skills
+# 📫 Contacts
 
-Python, C++
+📍 Russia  
+📅 Born: **18 January 2008**  
+📨 Telegram: *(добавь ссылку)*  
 
-Machine Learning, Deep Learning
-
-Computer Vision, NLP, multimodal models
-
-YOLO, SAM, Transformers
-
-Scikit-learn, PyTorch, Pandas, NumPy
-
-Data Analysis, gradient boosting
-
-End-to-end ML pipelines, scoring systems
-
-Soft Skills
-
-Problem solving
-
-Public speaking
-
-Teamwork & leadership
-
-Fast learning
-
-Project management
-
-🚀 Projects
-🔹 AppAssistantBot
-
-Stack: Python, ML, NLP
-A Telegram assistant for automating daily tasks and interacting with AI models.
-🔗 https://github.com/Rasdafar128/AppAssistantBot
-
-🔹 ColdStartSolver
-
-Stack: Python, ML, data processing
-Solution for reducing cold-start effects in recommendation systems.
-🔗 https://github.com/Rasdafar128/ColdStartSolver
-
-🔹 TG_Paravozik_bot
-
-Stack: Python, Telegram API
-Bot with advanced automation and message processing.
-🔗 https://github.com/Rasdafar128/TG_Paravozik_bot
-
-🔹 Automatic Processing of Work Records
-
-Stack: CV, OCR, Python
-Automated pipeline for extracting structured information from images of work records.
-🔗 https://github.com/Rasdafar128/Automatic-processing-of-work-records
-
-🔹 SamoletGroup Development Challenge
-
-Stack: ML, scoring, feature engineering
-Solution for corporate ML challenge focused on analyzing corporate performance data.
-🔗 https://github.com/Rasdafar128/SamoletGroup-Development
-
-🔹 Normalize Car Numbers
-
-Stack: CV, OCR, Python
-Detection and normalization of vehicle license plates.
-🔗 https://github.com/Rasdafar128/Normalize-cars-numbers
-
-🔥 GitHub Stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Rasdafar128&theme=tokyonight&hide_border=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api?username=Rasdafar128&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasdafar128&layout=compact&theme=tokyonight&hide_border=true" width="49%"/> </div>
-📫 Contact Me
-
-📍 Russia
-📅 Born: 18 January 2008
-✉️ Email: m.d.vershinin@gmail.com
-📨 Telegram: https://t.me/Radsdafar08
