@@ -54,7 +54,7 @@ License plate detection & normalization system.
 # 🛠 Tech Stack
 
 **ML/DL:** PyTorch, scikit-learn, YOLO, SAM, Transformers  
-**LLM:** Llama, Qwen, Mistral, LLaVA, fine-tuning (LoRA), RAG, prompt engineering  
+**LLM:** Qwen, Deepseek, chatgpt, fine-tuning (LoRA), RAG, prompt engineering  
 **Languages:** Python, C++  
 **Tools:** Pandas, NumPy, OpenCV  
 **Fields:** CV, LLMs, multimodal AI, NLP, data analysis, optimization
@@ -77,5 +77,5 @@ License plate detection & normalization system.
 
 📍 Russia  
 📅 Born: **18 January 2008**  
-📨 Telegram: *(добавь ссылку)*  
+📨 Telegram: https://t.me/Radsdafar08  
 
