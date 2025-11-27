@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm <b>Mikhail Vershinin</b> 👋</h1>
 <h3 align="center">Machine Learning Engineer • AI Olympiad Medalist • CV & LLM Specialist</h3>
----
+
 
 ## 🧠 About Me
 
