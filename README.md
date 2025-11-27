@@ -4,7 +4,7 @@
 18 y.o. (born 18.01.2008), Russia
 
 <a href="https://github.com/Rasdafar128"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/Radsdafar08"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 👨‍💻 About Me
 
